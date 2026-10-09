@@ -11,7 +11,7 @@ Site estático, responsivo e pronto para abrir no navegador. Para habilitar inst
 - Formulário de briefing preparado localmente; não envia nem armazena dados nesta versão.
 - Sem CDN, API ou serviço externo obrigatório.
 
-A direção visual usa uma composição editorial clara, tipografia expressiva, superfícies brancas e cinzas, texto preto e imagens em escala de cinza. O site preserva os serviços e os quatro estudos conceituais, claramente identificados como demonstrações.
+A direção visual combina uma base editorial branca, cinza e preta com azul cobalto vivo (#2458f5) em botões, títulos, links, interações e detalhes gráficos. Sem tons laranja. O site preserva os serviços e os quatro estudos conceituais, claramente identificados como demonstrações.
 
 ## Contato
 
