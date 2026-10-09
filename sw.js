@@ -1,8 +1,7 @@
-const CACHE_NAME = 'veorio-studio-v4';
+const CACHE_NAME = 'veorio-studio-v5';
 const APP_SHELL = [
   './',
   './index.html',
-  './refinement.css',
   './site-redesign.css',
   './vendor/bootstrap.min.css',
   './manifest.webmanifest',
