@@ -1,0 +1,27 @@
+{
+  "id": "./",
+  "name": "VEORIO STUDIO — Design & Tecnologia",
+  "short_name": "VEORIO",
+  "description": "Criação de sites e experiências digitais com design e tecnologia.",
+  "lang": "pt-BR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#090a0b",
+  "theme_color": "#090a0b",
+  "icons": [
+    {
+      "src": "assets/app-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/app-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
